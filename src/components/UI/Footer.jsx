@@ -1,5 +1,5 @@
 import React from 'react'
-import Footerdata from '/home/sama/Documents/world atlas/src/API/Footerdata.json'
+import Footerdata from '../../API/Footerdata.json'
 import { MdPlace } from "react-icons/md";
 import { IoCallSharp } from "react-icons/io5";
 import { TbMailPlus } from "react-icons/tb";
