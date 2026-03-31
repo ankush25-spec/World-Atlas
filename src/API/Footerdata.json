@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Jamui, Bihar"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "95345XXXXX"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "ankush@creator.com"
+  }
+]
